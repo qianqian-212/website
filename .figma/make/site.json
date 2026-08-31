@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your unique design aesthetic and artistic vision with a personalized digital portfolio that highlights selected works and professional capabilities.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
